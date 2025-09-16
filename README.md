@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=assildekhil.assildekhil" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Salut+👋;+Je+suis+Dekhil+Assil!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=FFC107&lines=Salut+👋;+Je+suis+Dekhil+Assil!;" />
 </h1>
+
 
 <h3 align="center">💻 Étudiant en Master 2 Informatique & Mobilité | Développeur Full-Stack</h3>
 
@@ -55,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql,mongodb,firebase,spring,angular" /><br><br>
   
   <!-- Deuxième ligne -->
-  <img src="https://skillicons.dev/icons?i=react,flutter,android,swift,ios,dotnet,nodejs,bootstrap,tailwind,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift,dotnet,nodejs,bootstrap,tailwind,html,css" /><br><br>
   
   <!-- Troisième ligne -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" />
