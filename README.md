@@ -50,18 +50,23 @@
 <h2 align="center">⚒️ Langages - Frameworks - Outils ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,flutter,dotnet,nodejs" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,java,mysql,angular,spring,docker,kubernetes" /><br>
+
+  <!-- Première ligne -->
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql,mongodb,firebase,spring,angular" /><br><br>
+  
+  <!-- Deuxième ligne -->
+  <img src="https://skillicons.dev/icons?i=react,flutter,android,swift,ios,dotnet,nodejs,bootstrap,tailwind,html,css" /><br><br>
+  
+  <!-- Troisième ligne -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" />
+
 </div>
+
 
 <br/>
 
 <hr/>
 
-<h2 align="center">⚡ Statistiques ⚡</h2>
-<br>
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assildekhil&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
 
 <br/><br/>
